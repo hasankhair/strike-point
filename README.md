@@ -8,3 +8,6 @@ This is Strike Point game inspired by Counter-Strike build with Codex. Take the 
 <div align="center">
   <img src="images/2.png" alt="App Screenshot" width=80% height=80%>
 </div>
+<div align="center">
+  <img src="images/3.png" alt="App Screenshot" width=80% height=80%>
+</div>
